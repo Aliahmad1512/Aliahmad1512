@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ALI AHMAD</h1>
-<h3 align="center">STUDENT AT IVY PROFESSIONAL SCHOOL</h3>
+<h3 align="center">ASSOCIATE ANALYST AT TESCO BENGALURU</h3>
 
 <p align="left"> <a href="https://twitter.com/1512aliahmad" target="blank"><img src="https://img.shields.io/twitter/follow/1512aliahmad?logo=twitter&style=for-the-badge" alt="1512aliahmad" /></a> </p>
 
